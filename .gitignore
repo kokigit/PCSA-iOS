@@ -1,0 +1,15 @@
+/Carthage/Build/tvOS
+/Carthage/Build/iOS/*
+!/Carthage/Build/iOS/*.framework
+
+/Carthage/Checkouts/*/*.xcodeproj/project.xcworkspace/xcuserdata/
+/Carthage/Checkouts/*/*.xcodeproj/project.xcworkspace/xcshareddata
+/Carthage/Checkouts/*/*.xcodeproj/xcuserdata/
+
+pcsa.xcodeproj/project.xcworkspace/xcuserdata/
+pcsa.xcodeproj/project.xcworkspace/xcshareddata
+pcsa.xcodeproj/xcuserdata/
+.DS_Store
+
+
+
